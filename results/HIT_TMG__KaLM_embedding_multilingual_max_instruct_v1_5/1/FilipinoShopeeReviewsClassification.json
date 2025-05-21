@@ -1,0 +1,137 @@
+{
+  "dataset_revision": "d096f402fdc76886458c0cfb5dedc829bea2b935",
+  "task_name": "FilipinoShopeeReviewsClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "validation": [
+      {
+        "accuracy": 0.435938,
+        "f1": 0.402104,
+        "f1_weighted": 0.402073,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.440918,
+            "f1": 0.416556,
+            "f1_weighted": 0.416529
+          },
+          {
+            "accuracy": 0.430176,
+            "f1": 0.380166,
+            "f1_weighted": 0.380146
+          },
+          {
+            "accuracy": 0.452148,
+            "f1": 0.412678,
+            "f1_weighted": 0.412671
+          },
+          {
+            "accuracy": 0.445312,
+            "f1": 0.4205,
+            "f1_weighted": 0.420461
+          },
+          {
+            "accuracy": 0.432617,
+            "f1": 0.381969,
+            "f1_weighted": 0.381912
+          },
+          {
+            "accuracy": 0.433105,
+            "f1": 0.387374,
+            "f1_weighted": 0.387347
+          },
+          {
+            "accuracy": 0.436523,
+            "f1": 0.401124,
+            "f1_weighted": 0.401085
+          },
+          {
+            "accuracy": 0.436523,
+            "f1": 0.410343,
+            "f1_weighted": 0.410308
+          },
+          {
+            "accuracy": 0.443848,
+            "f1": 0.425755,
+            "f1_weighted": 0.425685
+          },
+          {
+            "accuracy": 0.408203,
+            "f1": 0.384577,
+            "f1_weighted": 0.384584
+          }
+        ],
+        "main_score": 0.435938,
+        "hf_subset": "default",
+        "languages": [
+          "fil-Latn"
+        ]
+      }
+    ],
+    "test": [
+      {
+        "accuracy": 0.448389,
+        "f1": 0.416071,
+        "f1_weighted": 0.416041,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.450684,
+            "f1": 0.426359,
+            "f1_weighted": 0.426332
+          },
+          {
+            "accuracy": 0.444336,
+            "f1": 0.393886,
+            "f1_weighted": 0.393856
+          },
+          {
+            "accuracy": 0.45459,
+            "f1": 0.418545,
+            "f1_weighted": 0.418562
+          },
+          {
+            "accuracy": 0.458496,
+            "f1": 0.434202,
+            "f1_weighted": 0.434176
+          },
+          {
+            "accuracy": 0.458496,
+            "f1": 0.408668,
+            "f1_weighted": 0.408596
+          },
+          {
+            "accuracy": 0.45166,
+            "f1": 0.40375,
+            "f1_weighted": 0.403702
+          },
+          {
+            "accuracy": 0.452148,
+            "f1": 0.419298,
+            "f1_weighted": 0.419253
+          },
+          {
+            "accuracy": 0.447754,
+            "f1": 0.422766,
+            "f1_weighted": 0.422739
+          },
+          {
+            "accuracy": 0.464844,
+            "f1": 0.453111,
+            "f1_weighted": 0.453064
+          },
+          {
+            "accuracy": 0.400879,
+            "f1": 0.380123,
+            "f1_weighted": 0.380135
+          }
+        ],
+        "main_score": 0.448389,
+        "hf_subset": "default",
+        "languages": [
+          "fil-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 52.921147108078,
+  "kg_co2_emissions": null
+}

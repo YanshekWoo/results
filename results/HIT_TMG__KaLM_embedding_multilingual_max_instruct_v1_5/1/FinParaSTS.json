@@ -1,0 +1,43 @@
+{
+  "dataset_revision": "e4428e399de70a21b8857464e76f0fe859cabe05",
+  "task_name": "FinParaSTS",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "validation": [
+      {
+        "pearson": 0.306465,
+        "spearman": 0.303234,
+        "cosine_pearson": 0.306465,
+        "cosine_spearman": 0.303234,
+        "manhattan_pearson": 0.303356,
+        "manhattan_spearman": 0.304047,
+        "euclidean_pearson": 0.302668,
+        "euclidean_spearman": 0.303126,
+        "main_score": 0.303234,
+        "hf_subset": "default",
+        "languages": [
+          "fin-Latn"
+        ]
+      }
+    ],
+    "test": [
+      {
+        "pearson": 0.278831,
+        "spearman": 0.272025,
+        "cosine_pearson": 0.278831,
+        "cosine_spearman": 0.272025,
+        "manhattan_pearson": 0.276826,
+        "manhattan_spearman": 0.272245,
+        "euclidean_pearson": 0.275638,
+        "euclidean_spearman": 0.272157,
+        "main_score": 0.272025,
+        "hf_subset": "default",
+        "languages": [
+          "fin-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 12.712224245071411,
+  "kg_co2_emissions": null
+}

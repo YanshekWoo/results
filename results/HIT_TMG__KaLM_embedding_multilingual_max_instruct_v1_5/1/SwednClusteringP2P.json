@@ -1,0 +1,59 @@
+{
+  "dataset_revision": "ef1661775d746e0844b299164773db733bdc0bf6",
+  "task_name": "SwednClusteringP2P",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "summaries": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.52633,
+            0.493594,
+            0.39992,
+            0.49565,
+            0.554162,
+            0.399536,
+            0.387494,
+            0.394481,
+            0.372012,
+            0.503797
+          ]
+        },
+        "v_measure": 0.452698,
+        "v_measure_std": 0.064504,
+        "main_score": 0.452698,
+        "hf_subset": "default",
+        "languages": [
+          "swe-Latn"
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.484955,
+            0.465316,
+            0.380296,
+            0.386263,
+            0.468261,
+            0.476886,
+            0.525876,
+            0.448165,
+            0.388222,
+            0.469325
+          ]
+        },
+        "v_measure": 0.449357,
+        "v_measure_std": 0.046239,
+        "main_score": 0.449357,
+        "hf_subset": "default",
+        "languages": [
+          "swe-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 128.6612150669098,
+  "kg_co2_emissions": null
+}

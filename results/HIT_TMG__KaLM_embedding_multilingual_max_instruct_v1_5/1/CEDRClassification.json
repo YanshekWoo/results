@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "c0ba03d058e3e1b2f3fd20518875a4563dd12db4",
+  "task_name": "CEDRClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.434697,
+        "f1": 0.36303,
+        "lrap": 0.688876,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.378852,
+            "f1": 0.25009,
+            "lrap": 0.616844
+          },
+          {
+            "accuracy": 0.376196,
+            "f1": 0.259809,
+            "lrap": 0.624442
+          },
+          {
+            "accuracy": 0.462274,
+            "f1": 0.376053,
+            "lrap": 0.691498
+          },
+          {
+            "accuracy": 0.462274,
+            "f1": 0.390623,
+            "lrap": 0.695218
+          },
+          {
+            "accuracy": 0.505313,
+            "f1": 0.466719,
+            "lrap": 0.755898
+          },
+          {
+            "accuracy": 0.439957,
+            "f1": 0.397854,
+            "lrap": 0.692986
+          },
+          {
+            "accuracy": 0.45271,
+            "f1": 0.341746,
+            "lrap": 0.716684
+          },
+          {
+            "accuracy": 0.418172,
+            "f1": 0.388511,
+            "lrap": 0.703188
+          },
+          {
+            "accuracy": 0.405951,
+            "f1": 0.362957,
+            "lrap": 0.681084
+          },
+          {
+            "accuracy": 0.445271,
+            "f1": 0.395936,
+            "lrap": 0.710919
+          }
+        ],
+        "main_score": 0.434697,
+        "hf_subset": "default",
+        "languages": [
+          "rus-Cyrl"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 14.270068168640137,
+  "kg_co2_emissions": null
+}

@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "701984d6c6efea0e14a1c7850ef70e464c5577c0",
+  "task_name": "BulgarianStoreReviewSentimentClassfication",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.78022,
+        "f1": 0.545282,
+        "f1_weighted": 0.784445,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.774725,
+            "f1": 0.561979,
+            "f1_weighted": 0.787515
+          },
+          {
+            "accuracy": 0.78022,
+            "f1": 0.496021,
+            "f1_weighted": 0.78261
+          },
+          {
+            "accuracy": 0.774725,
+            "f1": 0.56675,
+            "f1_weighted": 0.796951
+          },
+          {
+            "accuracy": 0.807692,
+            "f1": 0.513119,
+            "f1_weighted": 0.791709
+          },
+          {
+            "accuracy": 0.769231,
+            "f1": 0.533782,
+            "f1_weighted": 0.772212
+          },
+          {
+            "accuracy": 0.747253,
+            "f1": 0.529823,
+            "f1_weighted": 0.762762
+          },
+          {
+            "accuracy": 0.741758,
+            "f1": 0.537954,
+            "f1_weighted": 0.762453
+          },
+          {
+            "accuracy": 0.796703,
+            "f1": 0.590664,
+            "f1_weighted": 0.798669
+          },
+          {
+            "accuracy": 0.813187,
+            "f1": 0.600575,
+            "f1_weighted": 0.802517
+          },
+          {
+            "accuracy": 0.796703,
+            "f1": 0.522155,
+            "f1_weighted": 0.787054
+          }
+        ],
+        "main_score": 0.78022,
+        "hf_subset": "default",
+        "languages": [
+          "bul-Cyrl"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 38.701799392700195,
+  "kg_co2_emissions": null
+}

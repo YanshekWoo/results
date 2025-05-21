@@ -1,0 +1,78 @@
+{
+  "dataset_revision": "e254179d18ab0165fdb6dbef91178266222bee2a",
+  "task_name": "NordicLangClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.716267,
+        "f1": 0.702101,
+        "f1_weighted": 0.704894,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.718333,
+            "f1": 0.708365,
+            "f1_weighted": 0.711989
+          },
+          {
+            "accuracy": 0.732667,
+            "f1": 0.717693,
+            "f1_weighted": 0.720334
+          },
+          {
+            "accuracy": 0.697667,
+            "f1": 0.681946,
+            "f1_weighted": 0.68411
+          },
+          {
+            "accuracy": 0.724667,
+            "f1": 0.712622,
+            "f1_weighted": 0.716144
+          },
+          {
+            "accuracy": 0.723667,
+            "f1": 0.706877,
+            "f1_weighted": 0.709766
+          },
+          {
+            "accuracy": 0.698667,
+            "f1": 0.685619,
+            "f1_weighted": 0.689044
+          },
+          {
+            "accuracy": 0.713333,
+            "f1": 0.70044,
+            "f1_weighted": 0.703079
+          },
+          {
+            "accuracy": 0.733,
+            "f1": 0.721174,
+            "f1_weighted": 0.722677
+          },
+          {
+            "accuracy": 0.685333,
+            "f1": 0.664369,
+            "f1_weighted": 0.66664
+          },
+          {
+            "accuracy": 0.735333,
+            "f1": 0.721909,
+            "f1_weighted": 0.725153
+          }
+        ],
+        "main_score": 0.716267,
+        "hf_subset": "default",
+        "languages": [
+          "nob-Latn",
+          "nno-Latn",
+          "dan-Latn",
+          "swe-Latn",
+          "isl-Latn",
+          "fao-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 35.17743921279907,
+  "kg_co2_emissions": null
+}

@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "f5502326c4e48adc99b18b1582f68b8fb5e7ec30",
+  "task_name": "SiswatiNewsClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "train": [
+      {
+        "accuracy": 0.555,
+        "f1": 0.282093,
+        "f1_weighted": 0.49906,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.5375,
+            "f1": 0.281812,
+            "f1_weighted": 0.489133
+          },
+          {
+            "accuracy": 0.5375,
+            "f1": 0.271075,
+            "f1_weighted": 0.469613
+          },
+          {
+            "accuracy": 0.5875,
+            "f1": 0.291313,
+            "f1_weighted": 0.530348
+          },
+          {
+            "accuracy": 0.575,
+            "f1": 0.283216,
+            "f1_weighted": 0.511286
+          },
+          {
+            "accuracy": 0.575,
+            "f1": 0.291534,
+            "f1_weighted": 0.526386
+          },
+          {
+            "accuracy": 0.525,
+            "f1": 0.270988,
+            "f1_weighted": 0.472739
+          },
+          {
+            "accuracy": 0.575,
+            "f1": 0.29118,
+            "f1_weighted": 0.523165
+          },
+          {
+            "accuracy": 0.55,
+            "f1": 0.272162,
+            "f1_weighted": 0.49017
+          },
+          {
+            "accuracy": 0.5375,
+            "f1": 0.280479,
+            "f1_weighted": 0.484776
+          },
+          {
+            "accuracy": 0.55,
+            "f1": 0.287171,
+            "f1_weighted": 0.492987
+          }
+        ],
+        "main_score": 0.555,
+        "hf_subset": "default",
+        "languages": [
+          "ssw-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 25.45862340927124,
+  "kg_co2_emissions": null
+}

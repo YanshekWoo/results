@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "1484d06fe7af23030c7c977b12556108d1f67039",
+  "task_name": "FinancialPhrasebankClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "train": [
+      {
+        "accuracy": 0.854373,
+        "f1": 0.839789,
+        "f1_weighted": 0.854818,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.880742,
+            "f1": 0.865466,
+            "f1_weighted": 0.878896
+          },
+          {
+            "accuracy": 0.873233,
+            "f1": 0.84578,
+            "f1_weighted": 0.870348
+          },
+          {
+            "accuracy": 0.832155,
+            "f1": 0.822556,
+            "f1_weighted": 0.836429
+          },
+          {
+            "accuracy": 0.886484,
+            "f1": 0.865849,
+            "f1_weighted": 0.884603
+          },
+          {
+            "accuracy": 0.882067,
+            "f1": 0.864426,
+            "f1_weighted": 0.879136
+          },
+          {
+            "accuracy": 0.757067,
+            "f1": 0.767606,
+            "f1_weighted": 0.766641
+          },
+          {
+            "accuracy": 0.876325,
+            "f1": 0.859153,
+            "f1_weighted": 0.875189
+          },
+          {
+            "accuracy": 0.837014,
+            "f1": 0.825495,
+            "f1_weighted": 0.839597
+          },
+          {
+            "accuracy": 0.844081,
+            "f1": 0.828475,
+            "f1_weighted": 0.845176
+          },
+          {
+            "accuracy": 0.874558,
+            "f1": 0.853085,
+            "f1_weighted": 0.872166
+          }
+        ],
+        "main_score": 0.854373,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 22.635334730148315,
+  "kg_co2_emissions": null
+}

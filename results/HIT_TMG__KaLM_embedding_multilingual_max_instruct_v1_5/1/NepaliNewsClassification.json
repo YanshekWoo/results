@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "79125f20d858a08f71ec4923169a6545221725c4",
+  "task_name": "NepaliNewsClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "train": [
+      {
+        "accuracy": 0.977441,
+        "f1": 0.977166,
+        "f1_weighted": 0.977438,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.977539,
+            "f1": 0.977166,
+            "f1_weighted": 0.977521
+          },
+          {
+            "accuracy": 0.974609,
+            "f1": 0.974359,
+            "f1_weighted": 0.97458
+          },
+          {
+            "accuracy": 0.974609,
+            "f1": 0.974456,
+            "f1_weighted": 0.974644
+          },
+          {
+            "accuracy": 0.977051,
+            "f1": 0.976767,
+            "f1_weighted": 0.977007
+          },
+          {
+            "accuracy": 0.977051,
+            "f1": 0.976729,
+            "f1_weighted": 0.977059
+          },
+          {
+            "accuracy": 0.981445,
+            "f1": 0.981248,
+            "f1_weighted": 0.981454
+          },
+          {
+            "accuracy": 0.965332,
+            "f1": 0.964871,
+            "f1_weighted": 0.965316
+          },
+          {
+            "accuracy": 0.983398,
+            "f1": 0.983197,
+            "f1_weighted": 0.983399
+          },
+          {
+            "accuracy": 0.982422,
+            "f1": 0.982158,
+            "f1_weighted": 0.982413
+          },
+          {
+            "accuracy": 0.980957,
+            "f1": 0.980711,
+            "f1_weighted": 0.980983
+          }
+        ],
+        "main_score": 0.977441,
+        "hf_subset": "default",
+        "languages": [
+          "nep-Deva"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 33.96192455291748,
+  "kg_co2_emissions": null
+}

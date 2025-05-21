@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "97fae0e80a8d275bc685dcb3da08972af542ad6e",
+  "task_name": "RomaniBibleClustering",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "test": [
+      {
+        "v_measure": 0.406603,
+        "v_measure_std": 0.012569,
+        "v_measures": [
+          0.408529,
+          0.420052,
+          0.411745,
+          0.386087
+        ],
+        "main_score": 0.406603,
+        "hf_subset": "default",
+        "languages": [
+          "rom-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 18.01630663871765,
+  "kg_co2_emissions": null
+}

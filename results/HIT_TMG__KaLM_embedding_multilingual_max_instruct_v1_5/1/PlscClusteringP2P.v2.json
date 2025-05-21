@@ -1,0 +1,34 @@
+{
+  "dataset_revision": "8436dd4c05222778013d6642ee2f3fa1722bca9b",
+  "task_name": "PlscClusteringP2P.v2",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.724026,
+            0.736148,
+            0.716661,
+            0.731393,
+            0.727391,
+            0.734073,
+            0.726057,
+            0.737225,
+            0.725168,
+            0.700963
+          ]
+        },
+        "v_measure": 0.72591,
+        "v_measure_std": 0.010216,
+        "main_score": 0.72591,
+        "hf_subset": "default",
+        "languages": [
+          "pol-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 10.687994241714478,
+  "kg_co2_emissions": null
+}

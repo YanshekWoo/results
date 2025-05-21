@@ -1,0 +1,111 @@
+{
+  "dataset_revision": "ed1c933c2b3617e5700d8a7ebe07f5975969a453",
+  "task_name": "WebLINXCandidatesReranking",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "validation": [
+      {
+        "map": 0.155591,
+        "mrr": 0.138766,
+        "nAUC_map_max": -0.079307,
+        "nAUC_map_std": -0.021694,
+        "nAUC_map_diff1": 0.254275,
+        "nAUC_mrr_max": -0.074359,
+        "nAUC_mrr_std": -0.026203,
+        "nAUC_mrr_diff1": 0.256355,
+        "main_score": 0.138766,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ],
+    "test_iid": [
+      {
+        "map": 0.148759,
+        "mrr": 0.131953,
+        "nAUC_map_max": 0.005343,
+        "nAUC_map_std": 0.064979,
+        "nAUC_map_diff1": 0.211875,
+        "nAUC_mrr_max": 0.011426,
+        "nAUC_mrr_std": 0.051577,
+        "nAUC_mrr_diff1": 0.219591,
+        "main_score": 0.131953,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ],
+    "test_cat": [
+      {
+        "map": 0.107013,
+        "mrr": 0.090316,
+        "nAUC_map_max": 0.032237,
+        "nAUC_map_std": 0.188695,
+        "nAUC_map_diff1": 0.087507,
+        "nAUC_mrr_max": 0.015897,
+        "nAUC_mrr_std": 0.168677,
+        "nAUC_mrr_diff1": 0.084285,
+        "main_score": 0.090316,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ],
+    "test_geo": [
+      {
+        "map": 0.117147,
+        "mrr": 0.099029,
+        "nAUC_map_max": 0.00472,
+        "nAUC_map_std": 0.064992,
+        "nAUC_map_diff1": 0.205077,
+        "nAUC_mrr_max": 0.00304,
+        "nAUC_mrr_std": 0.052961,
+        "nAUC_mrr_diff1": 0.208982,
+        "main_score": 0.099029,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ],
+    "test_vis": [
+      {
+        "map": 0.143057,
+        "mrr": 0.124764,
+        "nAUC_map_max": -0.012814,
+        "nAUC_map_std": 0.091702,
+        "nAUC_map_diff1": 0.122544,
+        "nAUC_mrr_max": -0.005549,
+        "nAUC_mrr_std": 0.074794,
+        "nAUC_mrr_diff1": 0.127378,
+        "main_score": 0.124764,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ],
+    "test_web": [
+      {
+        "map": 0.116015,
+        "mrr": 0.098656,
+        "nAUC_map_max": -0.05913,
+        "nAUC_map_std": 0.065856,
+        "nAUC_map_diff1": 0.14564,
+        "nAUC_mrr_max": -0.048934,
+        "nAUC_mrr_std": 0.060219,
+        "nAUC_mrr_diff1": 0.146789,
+        "main_score": 0.098656,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 40539.264095544815,
+  "kg_co2_emissions": null
+}

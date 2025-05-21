@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "87b7a0d1c402dbb481db649569c556d9aa27ac05",
+  "task_name": "TweetTopicSingleClassification",
+  "mteb_version": "1.38.9",
+  "scores": {
+    "test_2021": [
+      {
+        "accuracy": 0.772947,
+        "f1": 0.604207,
+        "f1_weighted": 0.786586,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.773774,
+            "f1": 0.601392,
+            "f1_weighted": 0.782132
+          },
+          {
+            "accuracy": 0.772002,
+            "f1": 0.617417,
+            "f1_weighted": 0.788831
+          },
+          {
+            "accuracy": 0.760189,
+            "f1": 0.600617,
+            "f1_weighted": 0.782353
+          },
+          {
+            "accuracy": 0.776137,
+            "f1": 0.631128,
+            "f1_weighted": 0.79042
+          },
+          {
+            "accuracy": 0.808033,
+            "f1": 0.653423,
+            "f1_weighted": 0.815322
+          },
+          {
+            "accuracy": 0.777909,
+            "f1": 0.620754,
+            "f1_weighted": 0.786809
+          },
+          {
+            "accuracy": 0.757236,
+            "f1": 0.541024,
+            "f1_weighted": 0.766508
+          },
+          {
+            "accuracy": 0.788541,
+            "f1": 0.622989,
+            "f1_weighted": 0.803708
+          },
+          {
+            "accuracy": 0.740106,
+            "f1": 0.561989,
+            "f1_weighted": 0.759708
+          },
+          {
+            "accuracy": 0.775546,
+            "f1": 0.591337,
+            "f1_weighted": 0.790069
+          }
+        ],
+        "main_score": 0.772947,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 24.510687112808228,
+  "kg_co2_emissions": null
+}
